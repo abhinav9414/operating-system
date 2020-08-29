@@ -12,10 +12,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import process.scheduling.simulator.ProcessObj;
 
-/**
- *
- * @author Mahesh
- */
+
 public class ShortestRemainingTime {
     int time = 0;
     int timeQuantum =1;
