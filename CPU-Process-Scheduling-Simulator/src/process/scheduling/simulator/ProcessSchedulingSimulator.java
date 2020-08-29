@@ -14,10 +14,7 @@ import process.scheduling.simulator.sjf.ShortestJobFirst;
 import process.scheduling.simulator.srtf.ShortestRemainingTime;
 import process.scheduling.simulator.view.Starter;
 
-/**
- *
- * @author Mahesh
- */
+
 public class ProcessSchedulingSimulator {
 
     /**
