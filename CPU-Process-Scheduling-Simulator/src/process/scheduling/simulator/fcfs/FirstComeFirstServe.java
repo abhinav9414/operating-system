@@ -12,10 +12,7 @@ import java.util.Queue;
 import java.util.concurrent.TimeUnit;
 import process.scheduling.simulator.ProcessObj;
 
-/**
- *
- * @author Mahesh
- */
+
 public class FirstComeFirstServe {
         int time = 0;
         Queue<ProcessObj> q = new LinkedList<>();
