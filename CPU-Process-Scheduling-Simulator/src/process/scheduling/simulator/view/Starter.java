@@ -16,10 +16,7 @@ import process.scheduling.simulator.roundRobin.RoundRobin;
 import process.scheduling.simulator.sjf.ShortestJobFirst;
 import process.scheduling.simulator.srtf.ShortestRemainingTime;
 
-/**
- *
- * @author Mahesh
- */
+
 public class Starter extends javax.swing.JFrame {
 
     /**
