@@ -12,10 +12,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import process.scheduling.simulator.ProcessObj;
 
-/**
- *
- * @author Mahesh
- */
+
 public class ShortestJobFirst {
      int time = 0;
         List<ProcessObj> q = new ArrayList<>();
