@@ -11,10 +11,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import process.scheduling.simulator.ProcessObj;
 
-/**
- *
- * @author Mahesh
- */
+
 public class RoundRobin {
 
     int time = 0;
